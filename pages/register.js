@@ -1,5 +1,5 @@
 
-// aggiornato manualmente per forzare GitHub
+// versione finale registrazione Firebase
 
 import { useState } from 'react';
 import { createUserWithEmailAndPassword } from 'firebase/auth';
