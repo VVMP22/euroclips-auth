@@ -1,5 +1,5 @@
 
-// aggiornato manualmente per forzare GitHub
+// versione corretta e funzionante di register.js
 
 import { useState } from 'react';
 import { createUserWithEmailAndPassword } from 'firebase/auth';
